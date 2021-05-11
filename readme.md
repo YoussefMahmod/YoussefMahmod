@@ -32,7 +32,7 @@ const skills = {
 
 <p>
 <a href="https://github.com/YoussefMahmod">
-  <img height="180em" style="float: left" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=youssefmahmod&theme=react&layout=compact" />
+  <img height="180em" style="float: left" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=YoussefMahmod&theme=react&layout=compact" />
 
   <img height="180em" style="float: right" src="https://github-readme-stats.vercel.app/api?username=YoussefMahmod&show_icons=true&theme=react&include_all_commits=true" />
 </a>

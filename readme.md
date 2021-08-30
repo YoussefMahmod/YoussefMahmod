@@ -18,7 +18,7 @@ const skills = {
 
   codingSkills: ["Problem Solving", "Data Structures", "Algorithms"],
 
-  Principles: ["OOP", "OOD", "SOLID Principles", "Design Patterns"],
+  Principles: ["OOP", "OOD", "SOLID Principles"],
 
   Databases: ["MySql"],
 };

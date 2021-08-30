@@ -14,11 +14,13 @@
 document.write("Skills");
 
 const skills = {
-  languages: ["Python", "Cpp", "C", "Javascript"],
+  Languages: ["Python", "C++", "Javascript"],
 
-  codingSkills: ["Problem Solving", "Data Structures", "Algorithms"],
+  CodingSkills: ["Problem Solving", "Data Structures", "Algorithms"],
 
   Principles: ["OOP", "OOD", "SOLID Principles"],
+  
+  Tech : ["Nodejs", "Expressjs"]
 
   Databases: ["MySql"],
 };

@@ -2,7 +2,7 @@
 
 ### About Me
 
-- :boom: &nbsp; Problem Solver
+- :boom: &nbsp; Competitive By Nature
 
 - 💡 &nbsp; Passionate about Software Development Specially in Backend Technologies.
 

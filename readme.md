@@ -26,8 +26,8 @@ const skills = {
 };
 ```
 
-### My Stats
-
+### My Status
+  
 <p>
 <a href="https://github.com/YoussefMahmod">
   <img height="180em" style="float: left" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=YoussefMahmod&theme=react&layout=compact" />

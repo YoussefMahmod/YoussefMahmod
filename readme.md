@@ -1,45 +1,46 @@
-<h2 align="center"><b>Hi there, I'm Youssef Mahmoud<b/></h1>
+# Hello there 👋
 
-### About Me
+## About me:
 
-- :boom: &nbsp; Competitive By Nature
+- I'm currently working on some RESTful APIs.
+- I'm currently learning databases(SQL/NOSQL) in-depth.
+- I'm a 2x Qualified to The Africa and Arab Collegiate Programming Contest (20',21').
 
-- 💡 &nbsp; Passionate about Software Development Specially in Backend Technologies.
+<br>
 
-- 🎓 &nbsp; Studying Computer Science at Suez Canal University Egypt.
+## Languages and Tools I use:
 
-### My Skills
+<br>
+<img align="left" height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+<img align="left" height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
+<img align="left" height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
+<img align="left" height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
+<!-- <img align="left" height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png" /> -->
+<!-- <img align="left" height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" /> -->
+<img align="left" height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
+<img align="left" height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
+<img align="left" height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
+<img align="left" height="32" width="32" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 
-```js
-document.write("Skills");
+<br>
+<br>
+<br>
 
-const skills = {
-  Languages: ["Python", "C++", "Javascript"],
+## My Stats:
 
-  CodingSkills: ["Problem Solving", "Data Structures", "Algorithms"],
+![youssef's GitHub stats](https://github-readme-stats.vercel.app/api?username=Youssefmahmod&count_private=true&show_icons=true&theme=radical)
 
-  Principles: ["OOP", "OOD", "SOLID Principles"],
-  
-  Tech : ["Nodejs", "Expressjs"]
+<br>
 
-  Databases: ["MySql"],
-};
-```
+<blockquote align="center">
 
-### My Status
-  
-<p>
-<a href="https://github.com/YoussefMahmod">
-  <img height="180em" style="float: left" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=YoussefMahmod&theme=react&layout=compact" />
+If I had the choice to choose, I would choose to be a flower seller. If I missed the profit, I would not miss the perfume
 
-  <img height="180em" style="float: right" src="https://github-readme-stats.vercel.app/api?username=YoussefMahmod&show_icons=true&theme=react&include_all_commits=true" />
-</a>
-</p>
+</blockquote>
 
 ### 🤝🏻 &nbsp;Connect with Me
 
-<p align="center">
+<p align="left">
   <a href="mailto:youss3fmahmoud@gmail.com"><img src="https://img.shields.io/badge/-youss3fmahmoud@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
   <a href="https://www.facebook.com/profile.php?id=100012227689012"><img src="https://img.shields.io/badge/-Youssef Mahmoud-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/youssef-mahmoud-452099173/"><img src="https://img.shields.io/badge/-Youssef%20Mahmoud-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-</p>

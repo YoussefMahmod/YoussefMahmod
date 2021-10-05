@@ -1,11 +1,12 @@
 # Hello there 👋
 
 ## About me:
-
-- I'm currently working on some RESTful APIs.
+- I'm a Software Engineer.
+- I'm a 2x The Africa and Arab Collegiate Programming Contest (20',21') Contestant.
+- I fall in love with Scripting and Automation Because I am super lazy.
+- I'm currently working on building some RESTful APIs.
 - I'm currently learning databases(SQL/NOSQL) in-depth.
-- I'm a 2x Qualified to The Africa and Arab Collegiate Programming Contest (20',21').
-
+- Open to work as a Software/Backend Engineer.
 <br>
 
 ## Languages and Tools I use:

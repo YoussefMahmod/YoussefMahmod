@@ -4,8 +4,7 @@
 - I'm a Software Engineer.
 - I'm a 2x The Africa and Arab Collegiate Programming Contest (20',21') Contestant.
 - I fall in love with Scripting and Automation.
-- I'm currently working on building some RESTful APIs.
-- I'm currently learning databases(SQL/NOSQL) and OS in-depth.
+- I'm currently working on building some RESTful APIs. 
 - Open to work as a Software/Backend Engineer.
 <br>
 

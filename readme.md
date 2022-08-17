@@ -1,7 +1,7 @@
 # Hello there 👋
 
 ## About me:
-- I’m currently working as software engineer Instabug.
+- I’m currently working as software engineer @Instabug.
 - I'm a 2x The Africa and Arab Collegiate Programming Contest (20',21') Contestant.
 - I fall in love with Scripting and Automation.
 <br>

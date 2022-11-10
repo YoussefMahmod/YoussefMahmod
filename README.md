@@ -12,13 +12,11 @@
 </h5>
 <br>
 <p align="center">
-  Hi, I'm Youssef Mahmoud, i'm working as backend engineer at Instabug
+  Hi, I'm Youssef Mahmoud, i'm working as backend engineer at [Instabug](https://www.instabug.com/)
   <br>
-  🎓 I graduated from Suez Canal University Computer Science Department
+  🎓 Graduated from Suez Canal University Computer Science Department
   <br>
-  💻 I love writing code and learn anythings about it
-  <br>
-  💬 Ask me anything about from <a href="https://github.com/youssefmahmod/youssefmahmod/issues" title="Issues">Here</a>
+  💬 Ask me anything from <a href="https://github.com/youssefmahmod/youssefmahmod/issues" title="Issues">Here</a>
   <br>
   📫 How to reach me: <a href="mailto: youss3fmahmoud@gmail.com.com">youss3fmahmoud@gmail.com</a>
 </p>
